@@ -1,2 +1,2 @@
 # Watch-net
-Simple site to login using netflix account 
+Simple site to log in using Netflix account 
